@@ -51,6 +51,12 @@
   <a src="https://ohmyz.sh">
      <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   </a>
+    <a src="https://ohmyz.sh">
+     <img align="left" alt="Bash" width="26px" src="https://ionicframework.com/blog/wp-content/uploads/2016/08/ionic-icon.png" />
+  </a>
+   <a src="https://ohmyz.sh">
+     <img align="left" alt="Bash" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" />
+  </a>
 <div/>
   
  <br/><br/>
